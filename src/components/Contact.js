@@ -2,7 +2,7 @@ import ResumeImg from "../assets/resume.jpg"
 export default function Contact(){
   const config = {
     email :'sundhareshan@140gmail.com',
-    number:'+91 8870136394'
+    number:'+91 88701363940000000'
   }
     return <section className="flex flex-col  bg-primary  text-white px-5 py-32" id="contact">
            <div className="flex flex-col items-center ">
